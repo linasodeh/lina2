@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903895068710",
+    "project_id": "usermanagement-a40d1",
+    "storage_bucket": "usermanagement-a40d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903895068710:android:f8421b73d6c196b80136e7",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationlina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903895068710-53l90cojsa6cj51o6i2tjnee4e8jolql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQZRikTrivojyHg3ThFoA_a5Uib0MTVm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903895068710-53l90cojsa6cj51o6i2tjnee4e8jolql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
